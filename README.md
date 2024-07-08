@@ -1,2 +1,2 @@
-# not-hurt-database
-Database containing information about Kenyan Hospitals
+# not-hurt
+Project Directory for not-hurt ai firstaid chatbot
